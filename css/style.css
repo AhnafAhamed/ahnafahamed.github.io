@@ -113,7 +113,9 @@ header a:hover{
   background:url('../img/loves.jpg') no-repeat 0 -400px;
   text-align:center;
   color:#f0f5f5;
-
+  max-width: 100%; 
+  display:block; 
+  height: auto;
 }
 
 
